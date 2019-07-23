@@ -18,4 +18,6 @@ A few guidelines that may be helpful:
 - When typing out SQL attributes, camelCase is prevalent
     - *streetType, customerID*, etc.
 
-this is by no means an exhaustive list so add things here if you run into anything else you think will be helpfu.
+this is by no means an exhaustive list so add things here if you run into anything else you think will be helpful.
+
+## Please View User Guide
