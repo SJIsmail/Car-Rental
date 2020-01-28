@@ -21,3 +21,6 @@ A few guidelines that may be helpful:
 this is by no means an exhaustive list so add things here if you run into anything else you think will be helpful.
 
 ## Please View User Guide
+
+[UserGuide_PDF.pdf](https://github.com/SJIsmail/Project2-Game/files/4120532/UserGuide_PDF.pdf)
+
